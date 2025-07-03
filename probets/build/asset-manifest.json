@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "./static/css/main.555a6157.chunk.css",
+    "main.js": "./static/js/main.118a2de1.chunk.js",
+    "main.js.map": "./static/js/main.118a2de1.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.ced0c51c.js",
+    "runtime-main.js.map": "./static/js/runtime-main.ced0c51c.js.map",
+    "static/js/2.9fb63ef0.chunk.js": "./static/js/2.9fb63ef0.chunk.js",
+    "static/js/2.9fb63ef0.chunk.js.map": "./static/js/2.9fb63ef0.chunk.js.map",
+    "static/js/3.59b89f18.chunk.js": "./static/js/3.59b89f18.chunk.js",
+    "static/js/3.59b89f18.chunk.js.map": "./static/js/3.59b89f18.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.555a6157.chunk.css.map": "./static/css/main.555a6157.chunk.css.map",
+    "static/js/2.9fb63ef0.chunk.js.LICENSE.txt": "./static/js/2.9fb63ef0.chunk.js.LICENSE.txt",
+    "static/media/binance.4927bd5a.png": "./static/media/binance.4927bd5a.png",
+    "static/media/sport.d488adcc.jpg": "./static/media/sport.d488adcc.jpg",
+    "static/media/telegram.e0e56fa0.png": "./static/media/telegram.e0e56fa0.png",
+    "static/media/twitter.fffb4fda.png": "./static/media/twitter.fffb4fda.png",
+    "static/media/website.5f959efb.png": "./static/media/website.5f959efb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ced0c51c.js",
+    "static/js/2.9fb63ef0.chunk.js",
+    "static/css/main.555a6157.chunk.css",
+    "static/js/main.118a2de1.chunk.js"
+  ]
+}
